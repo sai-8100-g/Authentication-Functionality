@@ -1,0 +1,21 @@
+.headerCard {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerCard > ul {
+  width: 20%;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #000000;
+  font-size: 2vw;
+  font-weight: bold;
+}
